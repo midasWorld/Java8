@@ -1,5 +1,6 @@
-package com.whyjava8.class01;
+package com.java.whyjava8.class01;
 
+import com.java.whyjava8.class01.WhyJava8;
 import org.junit.jupiter.api.Test;
 
 class WhyJava8Test {

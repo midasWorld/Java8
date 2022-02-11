@@ -1,4 +1,4 @@
-package com.whyjava8.class01;
+package com.java.whyjava8.class01;
 
 import java.util.Arrays;
 import java.util.List;
